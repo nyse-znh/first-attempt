@@ -6,3 +6,5 @@
 所以下定决心，就用NYSE:ZNH做自己的昵称，开始探索用GitHub写博客了
 
 @SEC NYSE:ZNH也是中概股哦
+
+![image](https://github.com/nyse-znh/first-attempt/blob/main/reform.png)
